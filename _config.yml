@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://patiyc.github.io
+title: patiyc
+paginate: 10
